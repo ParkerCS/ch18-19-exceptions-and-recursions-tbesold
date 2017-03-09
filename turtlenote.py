@@ -1,3 +1,4 @@
+'''
 import turtle
 
 my_turtle = turtle.Turtle()
@@ -34,5 +35,5 @@ for i in range(50):
 #my_turtle.end_fill()
 
 my_screen.exitonclick()
-
+'''
 
